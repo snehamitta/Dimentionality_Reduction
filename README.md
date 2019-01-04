@@ -1,0 +1,3 @@
+# Identify clusters of diabetes population in Chicago
+
+This CSV file is extracted from the data which can be downloaded from the Chicago Data Portal https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Diabetes-hospitalizations/vekt-28b5. The ChicagoDiabetes.csv contains the annual number of hospital discharges and the crude hospitalization rates, for the years 2000 to 2011, by the 46 communities of Chicago.  The crude hospitalization rate is the number of hospital discharges in a community divided by the total population for the community.  The crude rates are expressed per 10,000 residents.
